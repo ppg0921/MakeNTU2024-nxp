@@ -1,0 +1,11 @@
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:31:13:updateElevate	8	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:37:13:updateRotate	8	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:43:13:blueCounter_up3_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:67:13:blueCounter_down3_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:91:13:blueCounter_down1_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:115:13:blueCounter_up1_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:139:13:blueCounter_clockwise_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:163:13:blueCounter_rotatecount_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:179:13:blueCounter_counterclockwise_event_handler	24	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:203:6:events_init_blueCounter	16	static
+C:/NXP/GUI-Guider-Projects/TestButtonCounter/generated/events_init.c:214:6:events_init	16	static
